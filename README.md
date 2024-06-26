@@ -10,4 +10,9 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the App on HuggingFace [tn-public-companies-technical-analysis](https://huggingface.co/spaces/LeonceNsh/tn-public-companies)
+
+## Data 
+![TN-cos](https://github.com/LNshuti/tennessee-market-size/assets/13305262/398a00df-9d01-4133-b96c-7023c09abee2)
+
+
