@@ -1,14 +1,5 @@
----
-title: Tn Public Companies
-emoji: 📈
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 4.36.1
-app_file: app.py
-pinned: false
-license: mit
----
+
+# Tennessee Publicly Traded Companies: A technical Analysis Tutorial
 
 Check out the App on HuggingFace [tn-public-companies-technical-analysis](https://huggingface.co/spaces/LeonceNsh/tn-public-companies)
 
