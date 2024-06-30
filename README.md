@@ -1,6 +1,6 @@
 # Tennessee Publicly Traded Companies: A Technical Analysis Tutorial
 
-## [Prototype on HuggingFace](https://huggingface.co/spaces/LeonceNsh/tn-public-companies-technical-analysis)
+## [Prototype on HuggingFace](https://huggingface.co/spaces/LeonceNsh/tn-public-companies)
 
 ## [Production Accelerated with Cuda on Colab](https://c665887b7cf6f0261e.gradio.live/)
 
