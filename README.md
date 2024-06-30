@@ -16,8 +16,6 @@ This application allows users to:
 
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/tn-public-companies)
 
-## [Production Accelerated with Cuda](https://c665887b7cf6f0261e.gradio.live/)
-
 ## Data 
 
 ![TN-cos](https://github.com/LNshuti/tennessee-market-size/assets/13305262/398a00df-9d01-4133-b96c-7023c09abee2)
