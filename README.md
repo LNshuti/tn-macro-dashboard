@@ -16,6 +16,8 @@ This application allows users to:
 
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/tn-public-companies)
 
+![image](https://github.com/LNshuti/tn-macro-dashboard/assets/13305262/6605d226-d2a6-44dd-afb2-b4c8e22de894)
+
 ## Data 
 
 ![TN-cos](https://github.com/LNshuti/tennessee-market-size/assets/13305262/398a00df-9d01-4133-b96c-7023c09abee2)
